@@ -1,0 +1,57 @@
+»2205ss lua( 533<-
+
+hoc est
+
+s ‘’x-n 2333- s “bx{0];-„zr‚
+
+νει-κο) ψ(ι-κ·)-ααοε,,ι ⁴
+
+quae expressio cotnplet‘titur proprietatem illam Flaslicae
+reetangulae, fiue Linteariae, ab lll. Eulero detectam: quod
+reclangulum, sub applicata huius curuae, abscissae :t re-
+spondente, eiusque arcu comprehensum ‚ aequetur areae
+circuli, cuius diameter z 1.
+
+Methodus altera.
+
+§. 19. Fundamentum huius methodi in eo est po-
+
+ 
+
+ 
+
+ 
+
+litum, quod ista formula integralis: [θέτω '¹3³3ss ² ab
+1 —- ,τη -
+
+xzo Vsque ad ,κ’-τι extensa, duplici modo in pro-
+duc‘tum infinitum conuerti queat, ope Methodi nuperrime
+ab Illustri Eulero traditae, ex qua, ipso suadente, modum
+desumsi ‚ valorem producti in titulo expofiti explorandi,
+qui eo maiorem attentionem meretur, quod applicationes
+casuum particularium sine vlla vlteriori integratione ex-
+pediri et facili negotio ex formulis generalibus deduci
+
+queant.
+
+ 
+
+ 
+
+§. 20. Prior modus c‹›nuerfionis formulae
+nem-¹ dx , ‚
+s η -—- in productum infinitum hic est:
+V ( 1 — xa) ἰ’-’ἓ
+
+k
+
+Ponatur Σ Ξ xm (1 — x“)⁷² ,
+
+quae formula pro vtroqu'e termino integrationis , hoc est
+tam casu x:0‚ quam casu x z 1, euanescit, dummodo
+fuerint m, n et knumeripositiui. Hinc differentiando erit:
+
+dzzxm-’ dx(1 —SniL-ff-st (711---7nx'²-l<.2r⁷¹).P
+2 0·
+

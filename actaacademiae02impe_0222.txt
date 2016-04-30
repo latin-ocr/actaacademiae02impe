@@ -1,0 +1,62 @@
+„gsjg ) 102( &323ae-
+
+z, v, quibus formula biquadratica, in problemate propofita,
+signo V indicata, reuera ad nihilum redigitur, deduci pos-
+sunt, quarum iam plures in exemplis allatis sunt datae ‚
+quas igitur hic conspeetui coniunstim exponamus:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+x 20 39 185 672 78539.89 25.1121 20.433 6.109
+y ¹17 25 148 112 6512989 12.1x21 17.433 5.109
+z {17 20 39 39 291672 39.769 17-111 2911
+v 12 12 12 25 241112 20.769 1'2.111 24.,11
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+vbi, quia literae x, y, z, inter se permutari possunt, maxi-
+mos valores ipfi x tribuimus, hincque descendentes pro
+y et z scripfimuS. Semper autem minimus valor literae
+v competit.
+
+Problema ΙΙ.
+
+Propqsita formula hiquadratica
+sz⁴÷y⁴÷z⁴÷v⁴—2 xxyy- 2xxzz—·2 xxvv
+- 2yyzz—2yyvv-2zsz
+inuestigare valeres quatuor numerorum x ‚ y ‚ z ‚ v . vt ista
+formula nihilo fiat aequalis. Quod Problema etiam ita enun-
+
+ciari potest: guaer-antur quatuor quadrata, xx, y y, zz,
+vv , quorum st ponatur summa z: Σ, ει· summa fac‘lorum
+
+ex binis :11‚vtstc 2²:411.
+
+ς. 29. Quod fi tales valores pro literis x, y, z,
+v fuerint inuenti, sunu! sequentes formulae reddentur qua-
+drata, quorum radices ita se habebunt:
+
+Ι. 2V(xxyy÷zzvv)::xx-1-yy-zz-vv
+
+ΙΙ. 2V(.rxzz÷yyvv):xx÷zz-yy-vv HL
+

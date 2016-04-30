@@ -1,0 +1,29 @@
+»ᾒέ )31 l &teg--
+DE MENSURA
+ANGULORUM SOLIDORUM·
+
+Auctore
+L. EULER.
+ἦ. 1.
+
+Quemadmodum anguli plani mensurantur per arcus cir-
+culares eos subtendentes, fi scilicet vertex anguli in cen-
+tro circuli collocatur: ita naturae rei consentaneum vide-
+tur, angulos solidos per portiones superficiei sphaericae
+metiri, quae eos quasi subtendant. si vertex anguli vin
+centro sphaerae collocatur. lta fi angulus solidus ex tri·
+bus angulis, qui sint a, b, c, fuerit sormam, et circa ver-
+·ticem sphaera describatur , cuius radius vnitate exprima-
+tur, mensura huius anguli solidi rite statuetur areae triau-
+sguli sphaerici aequalis, cuius latera ssut illis angulis α, b et c
+aequalia; quandoquidem haec latera sunt mensurae illorum
+angulorum planorum. Eodem modo s1 angulus solidus ex
+quatuor vel pluribus angulis planis fuerit formatus, eius
+mensura erit area quadrilateri sphaerici, vel polygoni plu-
+rium laterum, cuius scilicet fingu'a latera aequentur angu-
+lis planis, quibus angulus solidus componitur. Hac igitur
+ratione dimensio angulorum solidorum reducitur ad inue-
+
+stigationem areae trianguli sphaerici, vel polygoni plurium
+late-
+
